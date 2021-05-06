@@ -1,0 +1,21 @@
+[
+	{
+		"id": 1010,
+		"name": "Inside which HTML element do we put the JavaScript?",
+		"questionTypeId": 1,
+		"options": [
+			{
+				"id": 1055,
+				"questionId": 1010,
+				"name": "javascript",
+				"isAnswer": false
+			},
+			{
+				"id": 1056,
+				"questionId": 1010,
+				"name": "scripting",
+				"isAnswer": false
+			}
+		]
+	}
+]
